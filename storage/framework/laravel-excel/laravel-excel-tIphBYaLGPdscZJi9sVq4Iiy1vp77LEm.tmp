@@ -1,0 +1,11 @@
+member_id,first_name,last_name,relative_name,dob,id_type,id_number,id_image_link,member_photo_link,allotted_to_admin_user_id
+1001,kumar,sanu,rel_kumar_sanu,2020-09-05 06:40:17,addhar,123212321232,image_01.jpg,image_02.jpg,2
+1002,raj,mehata,rel_mehata_raj,2020-09-05 06:40:17,pan,123212321233,image_02.jpg,image_03.jpg,3
+1003,ramesh,jindal,rel_jindal_ramesh,2020-09-05 06:40:17,passport,123212321234,image_03.jpg,image_04.jpg,2
+1004,dheeraj,shaikh,rel_shaikh_dheeraj,2020-09-05 06:40:17,addhar,123212321235,image_04.jpg,image_05.jpg,3
+1005,raj,kapoor,rel_kapoor_raj,2020-09-05 06:40:17,passport,123212321236,image_05.jpg,image_06.jpg,2
+1006,sonu,nigam,rel_nigam_sonu,2020-09-05 06:40:17,addhar,123212321237,image_06.jpg,image_07.jpg,3
+1007,sunita,ghoshal,rel_ghoshal_sunita,2020-09-05 06:40:17,passport,123212321238,image_07.jpg,image_08.jpg,2
+1008,umesh,varma,rel_varma_umesh,2020-09-05 06:40:17,pan,123212321239,image_08.jpg,image_09.jpg,3
+1009,indra,gujral,rel_gujral_indra,2020-09-05 06:40:17,addhar,123212321240,image_09.jpg,image_10.jpg,2
+1010,rahul,sharma,rel_sharma_rahul,2020-09-05 06:40:17,passport,123212321241,image_10.jpg,image_11.jpg,3
